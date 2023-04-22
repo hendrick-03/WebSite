@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">WebSite</string>
+    <string name="website_hint">O site que deseja aceder</string>
+    <string name="destinatario_ed">Insira o destinatario</string>
+    <string name="remetente_ed">Insira o remetente deste emial</string>
+    <string name="Corpo_ed">Insira a mensagem do emial aqui</string>
+</resources>
